@@ -42,3 +42,18 @@ em {
 strong {
     background-color: white;
 }
+
+.ancla {
+    margin-top: 50px;
+}
+
+.regresarButton {
+    background-color: aliceblue;
+    text-decoration: none;
+    font-size: 1.6rem;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+    border: solid 2px;
+    border-color: gray;
+}
